@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.heading {
+    background-color: yellow;
+    padding: 20px 15px ;
+    border:5px dotted red;
+    width: 250px;
+    margin: 0 auto;
+   
+}
+#para{
+    background-color: rgb(212, 130, 6);
+    color: white;
+    padding: 20px;
+    margin-top: 10px;
+    border: 10px;
+    height: 100px;
+}
